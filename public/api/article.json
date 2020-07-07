@@ -1,0 +1,238 @@
+{
+  "result": {
+    "article": {
+      "authors": [
+        {
+          "name": "Centr Team",
+          "imageList": {
+            "square1x": {
+              "url": "https://cdn.centr.com/content/5000/4738/images/square1x-cen-author-pic-the-expertsv2.jpg"
+            },
+            "square2x": {
+              "url": "https://cdn.centr.com/content/5000/4738/images/square2x-cen-author-pic-the-expertsv2.jpg"
+            },
+            "square3x": {
+              "url": "https://cdn.centr.com/content/5000/4738/images/square3x-cen-author-pic-the-expertsv2.jpg"
+            }
+          }
+        }
+      ],
+      "introText": "Food Collection",
+      "media": [],
+      "blocks": [
+        {
+          "blockTypeId": 0,
+          "content": "<p>You’ve just got home from work, you’ve squeezed in a workout, the last thing you want to do is think too hard about food. Luckily, you don’t have to. This weeknight recipe collection is all about simple ingredients (many of which you already have in your pantry or fridge), quick cook times and all-round bang for your buck. Consider your dinner sorted!</p>"
+        },
+        {
+          "blockTypeId": 1,
+          "displayId": 0,
+          "content": [
+            {
+              "imageList": {
+                "landscapedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapedesktop1x-f9d77922d5360243a94d579360e1c766-loup-cen-veggiepitawraps-43l.jpg"
+                },
+                "landscapewidedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop1x-c1d4a9fb8de8c764bf04c833525e6e88-loup-cen-veggiepitawraps-169l.jpg"
+                },
+                "landscapewidedesktop2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop2x-75e9c6f6fba2a508522ff003030828e7-loup-cen-veggiepitawraps-169l.jpg"
+                },
+                "landscapetablet1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet1x-ba40ad22ec975e3cb26e9195097601a2-loup-cen-veggiepitawraps-43l.jpg"
+                },
+                "landscapetablet2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet2x-211b1df66ddd0a2f0c221ce31092fda9-loup-cen-veggiepitawraps-43l.jpg"
+                },
+                "landscapemobile1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile1x-531dd8c60ecbd92fa1f85e67abc6b23a-loup-cen-veggiepitawraps-43l.jpg"
+                },
+                "landscapemobile2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile2x-45a45112f59998aaf72a93d1da192ad2-loup-cen-veggiepitawraps-43l.jpg"
+                },
+                "landscapemobile3x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile3x-527f130b8502a690ddd22062087514f1-loup-cen-veggiepitawraps-43l.jpg"
+                }
+              },
+              "imageReference": "",
+              "url": "/recipe/5822",
+              "title": "DAN CHURCHILL’S VEGGIE PITA WRAPS",
+              "summary": "Dan is the man when it comes to fast, fresh and healthy dinners – this one will be on your plate (or in your hand) in all of 10 minutes! Wraps are a great way to bundle up those last little bits, so feel free to swap for whatever veggies you’ve got lying around in your fridge."
+            },
+            {
+              "imageList": {
+                "landscapedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapedesktop1x-fb5d33e78d8dfbd8e879e1468294453d-loup-hco-honeyglazedchickenwithpotatowedges-43l.jpg"
+                },
+                "landscapewidedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop1x-e5d66045b16d9a8de6fad0364b802223-loup-hco-honeyglazedchickenwithpotatowedges-169l.jpg"
+                },
+                "landscapewidedesktop2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop2x-371736ea65b0452cd72c1c70d5ccf3fb-loup-hco-honeyglazedchickenwithpotatowedges-169l.jpg"
+                },
+                "landscapetablet1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet1x-2c3f8c2a0a870de0f8e4469fa1580a86-loup-hco-honeyglazedchickenwithpotatowedges-43l.jpg"
+                },
+                "landscapetablet2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet2x-d19ca5d05ca1bcad93f906364b57c2f8-loup-hco-honeyglazedchickenwithpotatowedges-43l.jpg"
+                },
+                "landscapemobile1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile1x-7e3fc87f0e146ecc1890a5ed46401418-loup-hco-honeyglazedchickenwithpotatowedges-43l.jpg"
+                },
+                "landscapemobile2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile2x-1af618db429e7a86e7ffcad653550bff-loup-hco-honeyglazedchickenwithpotatowedges-43l.jpg"
+                },
+                "landscapemobile3x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile3x-0658e1a680b74c202edc14ead804bb27-loup-hco-honeyglazedchickenwithpotatowedges-43l.jpg"
+                }
+              },
+              "imageReference": "",
+              "url": "/recipe/4950",
+              "title": "HONEY GLAZED CHICKEN WITH POTATO WEDGES",
+              "summary": "Everything you need for a golden glaze (soy sauce, tomato paste, honey and garlic) is already in your pantry, so just shake it up, coat that chicken and get it in the oven. Wedges and asparagus make for simple, and simply perfect, sides."
+            },
+            {
+              "imageList": {
+                "landscapedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapedesktop1x-e2cefd371926cd5cc67e8c02d5dda8be-loup-hco-beeffajitassalsa-43l.jpg"
+                },
+                "landscapewidedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop1x-025e65264237d68a267183fb8033a979-loup-hco-beeffajitassalsa-169l.jpg"
+                },
+                "landscapewidedesktop2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop2x-dd8b065808dfe104b2a100c33fafb832-loup-hco-beeffajitassalsa-169l.jpg"
+                },
+                "landscapetablet1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet1x-6fb4d8552cfe00fcfe9c970f0dfdc4c0-loup-hco-beeffajitassalsa-43l.jpg"
+                },
+                "landscapetablet2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet2x-ad3f20d90c3ccf4d83ce2221ce3e8ebd-loup-hco-beeffajitassalsa-43l.jpg"
+                },
+                "landscapemobile1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile1x-c389f4053da4eed684e67c3119b17b82-loup-hco-beeffajitassalsa-43l.jpg"
+                },
+                "landscapemobile2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile2x-39311d88ed1e34531201ce7306b8a2f2-loup-hco-beeffajitassalsa-43l.jpg"
+                },
+                "landscapemobile3x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile3x-289d331ad8953b7c25cc4773cf940b3d-loup-hco-beeffajitassalsa-43l.jpg"
+                }
+              },
+              "imageReference": "",
+              "url": "/recipe/4946",
+              "title": "BEEF FAJITAS WITH SALSA",
+              "summary": "So simple, yet so tasty! That’s why we here at Centr are huge fans of Mexican food. A little beef goes a long way in this one-pan dinner and you’ll never look back once you’ve made your own salsa! Our experts selected these ingredients to capture that authentic Mexican flavor, but as with the wraps, you can swap out veggies to use what you have available."
+            },
+            {
+              "imageList": {
+                "landscapedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapedesktop1x-04260c298ba17be13b5e1295664debff-loup-hco-sesameglazedchickenwithchinesevegetables-43l.jpg"
+                },
+                "landscapewidedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop1x-3572ce1eb2a957e817da89fe674b2415-loup-hco-sesameglazedchickenwithchinesevegetables-169l.jpg"
+                },
+                "landscapewidedesktop2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop2x-67b462800e1c3912904a31a2abc9d743-loup-hco-sesameglazedchickenwithchinesevegetables-169l.jpg"
+                },
+                "landscapetablet1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet1x-8f30463bf5c3e56f714c8e8d84ca1f33-loup-hco-sesameglazedchickenwithchinesevegetables-43l.jpg"
+                },
+                "landscapetablet2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet2x-c46f1230d59da1e72dd4b0a798f3de05-loup-hco-sesameglazedchickenwithchinesevegetables-43l.jpg"
+                },
+                "landscapemobile1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile1x-90d602eff15b1e3f5192d3346d36070c-loup-hco-sesameglazedchickenwithchinesevegetables-43l.jpg"
+                },
+                "landscapemobile2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile2x-a5ec8a3da4da4ac1a9ffc51f24f4d115-loup-hco-sesameglazedchickenwithchinesevegetables-43l.jpg"
+                },
+                "landscapemobile3x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile3x-0081cfed088d46901d0861df177c0f82-loup-hco-sesameglazedchickenwithchinesevegetables-43l.jpg"
+                }
+              },
+              "imageReference": "",
+              "url": "/recipe/5462",
+              "title": "SWEET CHILLI GLAZED CHICKEN WITH VEGETABLES",
+              "summary": "You’ll always get bang for your buck with chicken thighs. The thigh is tender, versatile and holds more flavor than chicken breast, making it perfect for glazing and marinating. This sweet chilli glaze packs a secret weapon: peanut butter. Trust us, the combination is amazing. Keep your vegetables crunchy and bon appetit!"
+            },
+            {
+              "imageList": {
+                "landscapedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapedesktop1x-c2b93a64b086843ec5f7e8c8e2a903ca-loup-cen-lambsouvlakis-43l.jpg"
+                },
+                "landscapewidedesktop1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop1x-3881efea816c5e85562dfd7085ba16f4-loup-cen-lambsouvlakis-169l.jpg"
+                },
+                "landscapewidedesktop2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidedesktop2x-abaeb999b709b7243f74c006a32ec388-loup-cen-lambsouvlakis-169l.jpg"
+                },
+                "landscapetablet1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet1x-5b124e5c4558173459878f6d3af32a6f-loup-cen-lambsouvlakis-43l.jpg"
+                },
+                "landscapetablet2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapetablet2x-0e5a955d71ede611fc2d43e23b2eb672-loup-cen-lambsouvlakis-43l.jpg"
+                },
+                "landscapemobile1x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile1x-f6ee4594466afc7bc34d9719cba3f906-loup-cen-lambsouvlakis-43l.jpg"
+                },
+                "landscapemobile2x": {
+                  "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile2x-4dacbf3264d0bf33f6224ec0391e508e-loup-cen-lambsouvlakis-43l.jpg"
+                }
+              },
+              "imageReference": "",
+              "url": "/recipe/7036",
+              "title": "LAMB SOUVLAKI",
+              "summary": "This dinner isn’t just fast and healthy, it’s mobile! Putting the taste of Greece in your hand is as simple as a lemon juice marinade, firing up the BBQ (or a large pan), a dollop of tzatziki and a little fresh lettuce and tomato. This is a crowd-pleaser you can definitely make in bulk without breaking the bank."
+            }
+          ]
+        }
+      ],
+      "contentId": 7032,
+      "title": "5 MIDWEEK MEALS THAT WON’T BREAK THE BUDGET",
+      "summary": "It’s one of those nights. You can’t be bothered. Your budget is already blown. Don’t worry, you can still eat well!",
+      "urlPartial": "budget-dinners-reg",
+      "imageList": {
+        "landscape32medium1x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscape32medium1x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-32l.jpg"
+        },
+        "landscape32medium2x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscape32medium2x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-32l.jpg"
+        },
+        "landscape32medium3x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscape32medium3x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-32l.jpg"
+        },
+        "landscapemobile1x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile1x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-43l.jpg"
+        },
+        "landscapemobile2x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile2x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-43l.jpg"
+        },
+        "landscapemobile3x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscapemobile3x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-43l.jpg"
+        },
+        "landscapedesktop2x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscapedesktop2x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-43l.jpg"
+        },
+        "landscapewidemobile1x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidemobile1x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-169l.jpg"
+        },
+        "landscapewidemobile2x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidemobile2x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-169l.jpg"
+        },
+        "landscapewidemobile3x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/landscapewidemobile3x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-169l.jpg"
+        },
+        "portrait1x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/portrait1x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-43l.jpg"
+        },
+        "portrait2x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/portrait2x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-43l.jpg"
+        },
+        "portrait3x": {
+          "url": "https://cdn.centr.com/content/8000/7032/images/portrait3x-loup-hco-barbecuedchickengrilledbroccolilemonsalad-32l.jpg"
+        }
+      }
+    }
+  }
+}
