@@ -1,26 +1,66 @@
-## Available Scripts
+# Loup code challenge
 
-In the project directory, you can run:
+A React application to display an article's content.
 
-### `yarn start`
+# Installation and Setup Instructions
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+You need the latest version of node JS installed on your machine.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Installation:
 
-### `yarn test`
+`npm install`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### To Start Server:
 
-### `yarn build`
+`npm start`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### To Visit App:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+`localhost:3000`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### To Run Test Suite:
+
+`npm test`
+
+# Reflection
+
+Project goal included writing a React App to convert an API response for a blog article page to a live page. Once the user completes reading the blog post by reaching the bottom of the page, they will be prompted to rate the article out of 5. After rating, the user will be presented with the average rating for all users. (A mock data is being used to get the previous user ratings.)
+
+I have used `create-react-app` to create the client's framework.
+I also used libraries below to complete this code challenge:
+
+- axios
+- styled-components
+- react-bottom-scroll-listener
+- enzyme
+
+# Application architecture:
+
+- Writing React components using presentational and container pattern
+- Separating constatnt variables to be reused across the app
+- Using React hooks to manage states
+
+# UI development
+
+### Used styled-components library which allowed me to:
+
+- Use props to conditionally render css
+- Address CSS specificity
+- Make re-usable components
+
+### Responsive UI
+
+- Used Flex-box and Grid for addaptive layout
+- Support 4 breakpints (small mobile - standard mobile - tablet - desktop)
+
+# Testing
+
+- Provided examples of snapshot and functional unit testing
+
+# Todo tasks
+
+- Data validation and handling network request errors
+- Add more unit tests
+- Add type checking
+- Use proper image asset for each breakpoint
+- Improve UI elements' animations and transitions
