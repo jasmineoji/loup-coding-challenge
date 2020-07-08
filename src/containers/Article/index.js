@@ -8,6 +8,7 @@ import Footer from "../../components/Footer"
 import styled from "styled-components"
 import Breakpoints from "../../constants/Breakpoints"
 import Dialog from "../../components/Dialog"
+import { calculateAgerageRating } from "../../utils/maths"
 
 const ContentWrapper = styled.div`
   flex: 1;
@@ -91,14 +92,10 @@ const Article = () => {
 
   const selectedRating = (rating) => {
     updateUserRating(rating)
-    calculateAgerageRating(rating)
-  }
 
-  const calculateAgerageRating = (rating) => {
     const { total, numberOfUser } = getArticleRatings()
-    const averageValue = (total + rating) / (numberOfUser + 1)
-
-    updateAverageRating(parseFloat(averageValue.toFixed(1)))
+    const average = calculateAgerageRating(total, numberOfUser, rating)
+    updateAverageRating(average)
   }
 
   useBottomScrollListener(popUpOpen)
